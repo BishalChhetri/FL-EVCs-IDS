@@ -1,6 +1,7 @@
-EVSE_augmented_1.5.csv
+
+# EVSE_augmented_1.5.csv
 EVSE_augmented_2.csv
 output image/
-output/
+output
 data/
 .ipynb_checkpoints
