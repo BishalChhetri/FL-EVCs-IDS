@@ -3,5 +3,6 @@
 EVSE_augmented_2.csv
 output image/
 output
-data/
+datas/
 .ipynb_checkpoints
+ML_FL_Model_EVCs_Data_Analysis.ipynb
