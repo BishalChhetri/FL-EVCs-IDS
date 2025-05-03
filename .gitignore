@@ -4,6 +4,8 @@ EVSE_augmented_2.csv
 output image/
 output
 datas/
+small_images/
 .ipynb_checkpoints
 ML_FL_Model_EVCs_Data_Analysis.ipynb
 ML_FL_Model_EVCs_FedAVGM-Non-IID1.ipynb
+EVCs_Data_Analysis_small.ipynb
